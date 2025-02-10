@@ -12,7 +12,7 @@ void sol(){
     //////////////////////
 }
 
-int main(){
+int32_t main(){
      
     El_Mokh
     int t = 1;
